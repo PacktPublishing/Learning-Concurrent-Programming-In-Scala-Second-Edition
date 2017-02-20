@@ -4,13 +4,11 @@ This is the code repository for [Learning Concurrent Programming in Scala - Seco
 The Scala 2.12 series targets Java 8 and requires it for execution. It starts by introducing you to the foundations of concurrent programming on the JVM, outlining the basics of the Java Memory Model, and then shows some of the classic building blocks of concurrency, such as the atomic variables, thread pools, and concurrent data structures, along with the caveats of traditional concurrency.
 
 ##Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code are organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-The code files are arranged in the file structure as: 
+* The code files are arranged in the file structure as: Chapter02/learning-examples-master.zip\learning-examples-master\src\main\scala\org\learningconcurrency
 
-Chapter02/learning-examples-master.zip\learning-examples-master\src\main\scala\org\learningconcurrency
-
-Chapters 1 and 10 do not have any code
+* Chapters 1 and 10 do not have any code
 
 The code will look like the following:
 ```
